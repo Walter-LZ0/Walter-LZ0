@@ -56,7 +56,3 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
-<div >
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Lz0&layout=donut&theme=dark&hide_border=true'>
-</div>
-
